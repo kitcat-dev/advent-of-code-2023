@@ -1,2 +1,3 @@
 # advent-of-code-2023
-Advent of Code 2023 solutions and test runner on Bun
+
+Advent of Code 2023 solutions and test runner on Bun.
