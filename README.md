@@ -1,3 +1,5 @@
-# advent-of-code-2023
+# Advent of code 2023
 
-Advent of Code 2023 solutions and test runner on Bun.
+Quick start:
+1. Install [Bun](https://bun.sh/): `curl -fsSL https://bun.sh/install | bash`
+2. Run tests: `bun test [--watch]`
